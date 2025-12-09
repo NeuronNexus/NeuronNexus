@@ -105,7 +105,8 @@ availability: Open to collaborate on ambitious projects
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/NeuronNexus/NeuronNexus/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/NeuronNexus/NeuronNexus/output/github-contribution-grid-snake.gif)
+
 
 </div>
 
