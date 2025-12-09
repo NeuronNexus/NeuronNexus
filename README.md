@@ -94,10 +94,11 @@ availability: Open to collaborate on ambitious projects
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuronNexus&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeuronNexus&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7)
-![Top Languages](https://raw.githubusercontent.com/NeuronNexus/NeuronNexus/main/dist/top-langs.svg)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuronNexus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
 
 </div>
+
 
 ---
 
