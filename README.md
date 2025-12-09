@@ -128,6 +128,6 @@ availability: Open to collaborate on ambitious projects
 
 ### `"Push until impossible becomes normal."`
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7F7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=NeuronNexus&color=00F7F7&style=for-the-badge)
 
 </div>
