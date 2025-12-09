@@ -97,8 +97,8 @@ availability: Open to collaborate on ambitious projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuronNexus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
 
-</div>
 
+</div>
 
 ---
 
